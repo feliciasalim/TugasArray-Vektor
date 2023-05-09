@@ -1,2 +1,2 @@
 # TugasArray-Vektor
-![WhatsApp Image 2023-05-09 at 14 49 49](https://github.com/feliciasalim/TugasArray-Vektor/assets/115476135/a00b3df1-cd00-4274-90c0-9958624c2ee9)
+![tugas](https://github.com/feliciasalim/TugasArray-Vektor/assets/115476135/94fb12e0-4f56-4cdc-a153-3e3543bdad17)
