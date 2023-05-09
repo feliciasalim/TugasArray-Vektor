@@ -4,15 +4,15 @@ using namespace std;
 
 void insertionsort(vector<int>& myVector) {
     int n = myVector.size();
-    int key, j;
+    int m, j;
     for (int i = 1; i < n; i++) {
-        key = myVector[i];
+        m = myVector[i];
         j = i - 1;
-        while (j >= 0 && myVector[j] > key) {
+        while (j >= 0 && myVector[j] > m) {
             myVector[j+1] = myVector[j];
             j--;
         }
-        myVector[j+1] = key;
+        myVector[j+1] = m;
     }
 }
 
