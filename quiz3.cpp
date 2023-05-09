@@ -19,8 +19,7 @@ void insertionsort(vector<int>& myVector) {
 int main() {
     vector<int> myVector;
     int n;
-    cout << "jmlh bilangan: ";
-    cin >> n;
+    n=8; //bisa diganti tergantung mau brp bilangan
     cout << "Input: ";
     for (int i = 0; i < n; i++) {
         int x;
